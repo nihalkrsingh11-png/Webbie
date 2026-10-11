@@ -28,7 +28,18 @@ A custom motion controlled digital bot which is shaped like a spider (hence the 
 
 **3D File Design**
 ---
-<img width="545" height="470" alt="image" src="https://github.com/user-attachments/assets/83936bd7-d963-461e-a845-83665522b44c" />
+**Assembled (with PCB)**
+---
+<img width="1160" height="972" alt="image" src="https://github.com/user-attachments/assets/d4c7bd7e-5ef3-467c-b987-264f9900eb1a" />
+
+**Assembled (without PCB)**
+---
+<img width="896" height="721" alt="image" src="https://github.com/user-attachments/assets/fedaed4d-9591-425b-8288-6bcf6bde8bad" />
+
+**3D Print Ready**
+---
+<img width="942" height="528" alt="image" src="https://github.com/user-attachments/assets/aa07b68c-733e-4e9e-93b5-0b73bf38c7d9" />
+
 
 ## Designed the 3D files in Autodesk Fusion
 
